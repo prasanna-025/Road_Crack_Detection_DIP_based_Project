@@ -1,6 +1,9 @@
 # Road Crack Detection (DIP Based Project)
 
+![Project Dashboard Interface Concept](./dashboard_mockup.png)
+
 This project implements a comprehensive road crack detection system using Digital Image Processing (DIP) techniques. It provides solutions for both static image analysis and real-time monitoring via IP camera streams.
+
 
 ---
 
@@ -79,6 +82,11 @@ The real-time script displays a live window with:
     (Ensure your IP camera is active and the URL is updated in the script)
     ```bash
     python ROAD_CRACK_DETECTION_REALTIME.py
+    ```
+5.  **Run Modern GUI Dashboard**:
+    (Provides a professional integrated interface)
+    ```bash
+    python ROAD_CRACK_GUI_DASHBOARD.py
     ```
 
 ---
